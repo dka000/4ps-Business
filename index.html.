@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4Ps of Business</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1 { color: #0073e6; }
+        .container { max-width: 800px; margin: auto; }
+        .section { margin-bottom: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Understanding the 4Ps of Business</h1>
+        <div class="section">
+            <h2>1. Product</h2>
+            <p>The product is what a business sells. It must meet customer needs and be designed effectively.</p>
+        </div>
+        <div class="section">
+            <h2>2. Price</h2>
+            <p>Price refers to how much a business charges for its product. Strategies include cost-plus, penetration pricing, and price skimming.</p>
+        </div>
+        <div class="section">
+            <h2>3. Place</h2>
+            <p>Place involves how the product reaches the customer, such as direct selling, retail, or e-commerce.</p>
+        </div>
+        <div class="section">
+            <h2>4. Promotion</h2>
+            <p>Promotion includes advertising, sales promotions, and PR to attract customers.</p>
+        </div>
+    </div>
+</body>
+</html>
